@@ -1,0 +1,4 @@
+﻿Metric,Metric compared to,Average of Correlation
+Watch_Time_Hours,User_Rating,0.6
+Age,User_Rating,0.2
+Age,Watch_Time_Hours,0.45
